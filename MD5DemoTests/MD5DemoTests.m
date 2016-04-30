@@ -2,7 +2,7 @@
 //  MD5DemoTests.m
 //  MD5DemoTests
 //
-//  Created by 清风 on 16/4/18.
+//  Created by mr.scorpion on 16/4/18.
 //  Copyright © 2016年 mr.scorpion. All rights reserved.
 //
 
