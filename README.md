@@ -1,10 +1,6 @@
 # MSMD5
 md5 加密
 
-## 效果图
-
-![](Shooting.gif)
-
 ## Contact
 
 **Author:** Mr Scorpion
